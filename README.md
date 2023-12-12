@@ -22,7 +22,7 @@ Explore different screen size views here:
 
 <div style="text-align:left;">
   <p float="left">
-  <img src="./images/desktopsize.png" alt="desktopsize view" height="500px" width="400px" style="margin-right: 50px;"/>
+  <img src="./images/desktopsize.png" alt="desktopsize view" height="500px" width="400px" style="margin-right: 20px;"/>
   <img src="./images/max-1000px.png" alt="max 1000px view" height="500px" width="300px" style="margin-right: 20px;"/>
   <img src="./images/max-600px.png" alt="max 600px view"height="300px" width="150px"/>
 </div>
